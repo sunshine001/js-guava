@@ -1,11 +1,15 @@
 {
   "name": "js-guava",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --progress"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sunshine001/js-guava"
   },
   "author": "",
   "license": "ISC",
